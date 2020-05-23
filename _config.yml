@@ -14,21 +14,9 @@ description: "A Learning Engineer"
   rss: false
   email_address: # Full email address, e.g. "sam@example.com"
   facebook: "dileepshaik"
-  flickr:
-  github: "madebymunsters/type-theme"
-  google_plus:
   instagram: "post2dileep"
-  linkedin:  # Full URL
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr:
   twitter: "@idileepshaik"
-  wordpress:
-  youtube:
-
+  
 # Scripts
    katex: true # Enable if using math markup
    google_analytics: "UA-167412463-1"
@@ -53,7 +41,7 @@ paginate_path: "blog/page:num"
 # COLLECTIONS
 collections:
   portfolio:
-    output: true
+    output: false
 
 # BUILD SETTINGS
 markdown: kramdown
