@@ -34,7 +34,7 @@ The dataset has a lot of features and many missing values. This gives interestin
 
 ### Loan Prediction
 
-[Github](https://github.com/AI-Ain.github.io/master/Notebooks/Loan_Prediction.ipynb) 
+[Github](https://github.com/dileepshaik/LoanDefault-Prediction/blob/master/Loan_Default_Prediction_Final.ipynb) 
 
 Loan Prediction is a knowledge and learning hackathon on Analyticsvidhya. Dream Housing Finance company deals in home loans. Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. Based on customer's information we predict whether they should receive a loan or not. 
 
