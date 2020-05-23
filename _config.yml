@@ -1,10 +1,7 @@
 # THEME-SPECIFIC CONFIGURATION
-
-
 title: Aman
 avatar : Actio.jpg
-description: "A website with blog posts and pages" 
-show_downloads: true
+description: "A Learning Engineer"
 
 # Header and footer text
   header_text: >
