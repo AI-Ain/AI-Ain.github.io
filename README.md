@@ -6,17 +6,13 @@ This portfolio is a compilation of notebooks which created for data analysis or 
 
 Invoice handling is the most important task in many different fields that deal with large amounts of data in many different formats. Tables use layouts to organize information and convey meaning and can also represent and communicate complex information to readers.
 
-The link can be found [here](https://medium.com/@dileepdba1988/an-approaach- for-table-scraping-with azure-form-recof=gnizer-f34ffc69b169).
+The link can be found [here](https://medium.com/@dileepdba1988/an-approaach-for-table-scraping-with azure-form-recognizer-f34ffc69b169).
 
 ## Stand-alone projects.
 
 ### Home Credit Default Risk
 
 Home Credit Bank offers a challenge of credit scoring. There is a lot of data about applicants and their previous behavior. The code can be found [here](https://github.com/dileepshaik/Bank-CST-Data).
-
-### Movie Review Sentiment Analysis
-
-Some time ago Kaggle has launched several "remakes" of old competitions. It means that datasets are the same, but now we are offered an opportunity to simply explore the data and create kernels with new methods. One of these competitions is sentiment analysis of Rotten Tomatoes dataset with 5 classes (negative, somewhat negative, neutral, somewhat positive, positive). I have created a [kernel](https://www.kaggle.com/artgor/movie-review-sentiment-analysis-eda-and-models/notebook) with EDA and modern NN architecture: LSTM-CNN. Currently this kernel shows the 5th result of leaderboard.
 
 ## Classification problems.
 
@@ -46,7 +42,7 @@ Loan Prediction is a knowledge and learning hackathon on Analyticsvidhya. Dream 
 
 ### Bag of Words Meets Bags of Popcorn
 
-[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Bag_of_Words.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Bag_of_Words.ipynb)
+[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Bag_of_Words.ipynb) 
 
 Bag of Words Meets Bags of Popcorn is a sentimental analysis problem. Based on texts of reviews we predict whether they are positive or negative. General description and data are available on [Kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial).
 The data provided consists of raw reviews and class (1 or 2), so the main part is cleaning the texts.
@@ -90,7 +86,7 @@ This is my own project using image recognition methods in practice. This is a si
 
 ## Anomaly Detection
 
-[Github] https://github.com/dileepshaik/MEDIUM_NoteBook)
+[Github] (https://github.com/dileepshaik/MEDIUM_NoteBook)
 
 Repository contains the notebooks of multiole methods to detect the anomalies in the dataset.
 
