@@ -1,7 +1,6 @@
 theme: jekyll-theme-cayman
 
-# Google Analytics
-<!-- Global site tag (gtag.js) - Google Analytics -->
+google_analytics: [<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-167412463-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -9,4 +8,4 @@ theme: jekyll-theme-cayman
   gtag('js', new Date());
 
   gtag('config', 'UA-167412463-1');
-</script>
+</script>]
