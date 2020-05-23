@@ -1,25 +1,9 @@
 # THEME-SPECIFIC CONFIGURATION
 title: Aman
-avatar : Actio.jpg
 description: "A Learning Engineer"
-
-# Header and footer text
-  header_text: >
-     <h1> cloud admin and scientific Writer.</h1>
-  header_text_feature_image:
-  footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://AI-Ain.github.io">Type Theme</a>
-   
-# Icons
-  rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
-  facebook: "dileepshaik"
-  instagram: "post2dileep"
-  twitter: "@idileepshaik"
   
 # Scripts
-   katex: true # Enable if using math markup
-   google_analytics: "UA-167412463-1"
+google_analytics: "UA-167412463-1"
 
 # Localization strings
   str_follow_on: "Follow on"
@@ -33,15 +17,6 @@ description: "A Learning Engineer"
  # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
   google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
-
-# PAGINATION
-paginate: 5
-paginate_path: "blog/page:num"
-
-# COLLECTIONS
-collections:
-  portfolio:
-    output: false
 
 # BUILD SETTINGS
 markdown: kramdown
