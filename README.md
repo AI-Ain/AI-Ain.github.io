@@ -25,16 +25,10 @@ Titanic dataset provides interesting opportunities for feature engineering.
 
 ## Regression problems.
 
-### House Prices: Advanced Regression Techniques
-
-[Github](https://github.com/AI-Ain.github.io/master/Notebooks/House_Prices.ipynb) 
-
-House Prices: Advanced Regression Techniques is a knowledge competition on Kaggle. This is a regression problem: based on information about houses we predict their prices. General description and data are available on [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
-The dataset has a lot of features and many missing values. This gives interesting possibilities for feature transformation and data visualization.
-
 ### Loan Prediction
 
-[Github](https://github.com/dileepshaik/LoanDefault-Prediction/blob/master/Loan_Default_Prediction_Final.ipynb) 
+[Github](https://github.com/AI-Ain/AI-Ain.github.io/blob/master/Notebooks/Loan_Prediction.ipynb) 
+
 
 Loan Prediction is a knowledge and learning hackathon on Analyticsvidhya. Dream Housing Finance company deals in home loans. Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. Based on customer's information we predict whether they should receive a loan or not. 
 
@@ -42,21 +36,21 @@ Loan Prediction is a knowledge and learning hackathon on Analyticsvidhya. Dream 
 
 ### Bag of Words Meets Bags of Popcorn
 
-[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Bag_of_Words.ipynb) 
+[Github](https://github.com/AI-Ain/AI-Ain.github.io/blob/master/Notebooks/Bag_of_Words.ipynb) 
 
 Bag of Words Meets Bags of Popcorn is a sentimental analysis problem. Based on texts of reviews we predict whether they are positive or negative. General description and data are available on [Kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial).
 The data provided consists of raw reviews and class (1 or 2), so the main part is cleaning the texts.
 
 ### NLP. Text summarization
 
-[Github](https://github.com/AI-Ain.github.io/master/Notebooks/Summarize.ipynb) 
+[Github](https://github.com/AI-Ain/AI-Ain.github.io/blob/master/Notebooks/Summarize.ipynb) 
 This notebook shows how text can be summarized choosing several most important sentences from the text. I explore various methods of doing this based on a news article.
 
 ## Clustering
 
 ### Clustering with KMeans
 
-[Github](https://github.com/AI-Ain.github.io/master/Notebooks/Clustering_with_K-Means.ipynb) 
+[Github](https://github.com/AI-Ain/AI-Ain.github.io/blob/master/Notebooks/Clustering_with_K-Means.ipynb) 
 
 Clustering is an approach to unsupervised machine learning. Clustering with KMeans is one of algorithms of clustering. in this notebook I'll demonstrate how it works. Data used is about various types of seeds and their parameters. 
 
@@ -65,7 +59,7 @@ Clustering is an approach to unsupervised machine learning. Clustering with KMea
 
 ### Telematic data
 
-[Github](https://github.com/AI-Ain.github.io/master/Notebooks/Devices_analysis.ipynb)
+[Github](https://github.com/AI-Ain/AI-Ain.github.io/master/Notebooks/Devices_analysis.ipynb)
 
 I have a dataset with telematic information about 10 cars driving during one day. I visualise data, search for insights and analyse the behavior of each driver. I can't share the data, but here is the notebook. I want to notice that folium map can't be rendered by native github, but nbviewer.jupyter can do it.
 
@@ -73,7 +67,7 @@ I have a dataset with telematic information about 10 cars driving during one day
 
 ### Collaborative filtering
 
-[Github](https://github.com/AI-Ain.github.io/master/Notebooks/Collaborative_filtering.ipynb)
+[Github](https://github.com/AI-Ain/AI-Ain.github.io/master/Notebooks/Collaborative_filtering.ipynb)
 
 Recommenders are systems, which predict ratings of users for items. There are several approaches to build such systems and one of them is Collaborative Filtering. 
 This notebook shows several examples of collaborative filtering algorithms.
@@ -81,7 +75,7 @@ This notebook shows several examples of collaborative filtering algorithms.
 
 ### Handwritten digit recognition
 
-This is my own project using image recognition methods in practice. This is a site (also works on mobile) where user can draw a digit, and machine learning models (FNN and CNN) will try to recognize it. After than models can use the drawn digit for training to improve their accuracy. Live version is [here](https://digits-draw-recognize.herokuapp.com/). The code can be found [here](https://github.com/Erlemar/digit-draw-recognize).
+This is my own project using image recognition methods in practice. This is a site (also works on mobile) where user can draw a digit, and machine learning models (FNN and CNN) will try to recognize it. After than models can use the drawn digit for training to improve their accuracy. The code can be found [here](https://github.com/Erlemar/digit-draw-recognize).
 
 
 ## Anomaly Detection
