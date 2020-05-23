@@ -1,8 +1,9 @@
+theme: jekyll-theme-cayman
+
 # THEME-SPECIFIC CONFIGURATION
 title: Aman
 description: "A Learning Engineer"
-  
-# Scripts
+show_downloads: "false"
 google_analytics: "UA-167412463-1"
 
 
