@@ -1,9 +1,9 @@
+# THEME-SPECIFIC CONFIGURATION
 theme: jekyll-theme-cayman
 
-gem "github-pages", group: :jekyll_plugins
-
-title: AI_Ain
-
+title: Aman
+avatar : Actio.jpg
+description: "A website with blog posts and pages" 
 show_downloads: true
+google_analytics: "UA-167412463-1"
 
-google_analytics: [UA-167412463-1]
