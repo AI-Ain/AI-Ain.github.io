@@ -6,7 +6,7 @@ This portfolio is a compilation of notebooks which created for data analysis or 
 
 Invoice handling is the most important task in many different fields that deal with large amounts of data in many different formats. Tables use layouts to organize information and convey meaning and can also represent and communicate complex information to readers.
 
-The link can be found [here](https://medium.com/@dileepdba1988/an-approaach-for-table-scraping-with azure-form-recognizer-f34ffc69b169).
+The link can be found [here](https://medium.com/@dileepdba1988/an-approaach-for-table-scraping-with-azure-form-recognizer-f34ffc69b169).
 
 ## Face-Detection with Python and azureAPI
 
