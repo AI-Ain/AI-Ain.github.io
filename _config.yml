@@ -1,9 +1,67 @@
 # THEME-SPECIFIC CONFIGURATION
-theme: jekyll-theme-cayman
+
 
 title: Aman
 avatar : Actio.jpg
 description: "A website with blog posts and pages" 
 show_downloads: true
-google_analytics: "UA-167412463-1"
 
+# Header and footer text
+  header_text: >
+     <h1> cloud admin and scientific Writer.</h1>
+  header_text_feature_image:
+  footer_text: >
+   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://AI-Ain.github.io">Type Theme</a>
+   
+# Icons
+  rss: false
+  email_address: # Full email address, e.g. "sam@example.com"
+  facebook: "dileepshaik"
+  flickr:
+  github: "madebymunsters/type-theme"
+  google_plus:
+  instagram: "post2dileep"
+  linkedin:  # Full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: "@idileepshaik"
+  wordpress:
+  youtube:
+
+# Scripts
+   katex: true # Enable if using math markup
+   google_analytics: "UA-167412463-1"
+
+# Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next: "Next"
+  str_prev: "Prev"
+  str_continue_reading: "Continue reading"
+
+  
+ # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+
+# PAGINATION
+paginate: 5
+paginate_path: "blog/page:num"
+
+# COLLECTIONS
+collections:
+  portfolio:
+    output: true
+
+# BUILD SETTINGS
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+gems: [jekyll-paginate]
