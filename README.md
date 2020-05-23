@@ -8,6 +8,10 @@ Invoice handling is the most important task in many different fields that deal w
 
 The link can be found [here](https://medium.com/@dileepdba1988/an-approaach-for-table-scraping-with azure-form-recognizer-f34ffc69b169).
 
+## Face-Detection with Python and azureAPI
+
+Computer vision is an exciting and growing field. There are tons of interesting problems to solve! One of them is face detection: the ability of a computer to recognize that a photograph contains a human face and tell you where it is located. In this article, you’ll learn about face detection with Azure Face API with Python.The code can be found [here](https://github.com/dileepshaik/faceAPI/blob/master/AzureFaceAPI_Basic.py).
+
 ## Stand-alone projects.
 
 ### Home Credit Default Risk
@@ -75,7 +79,7 @@ This notebook shows several examples of collaborative filtering algorithms.
 
 ### Handwritten digit recognition
 
-This is my own project using image recognition methods in practice. This is a site (also works on mobile) where user can draw a digit, and machine learning models (FNN and CNN) will try to recognize it. After than models can use the drawn digit for training to improve their accuracy. The code can be found [here](https://github.com/Erlemar/digit-draw-recognize).
+This is my own project using image recognition methods in practice. This is a site (also works on mobile) where user can draw a digit, and machine learning models (FNN and CNN) will try to recognize it. After than models can use the drawn digit for training to improve their accuracy. The code can be found [here](https://github.com/AI-Ain/AI-Ain.github.io/master/Notebooks/digit-draw-recognize).
 
 
 ## Anomaly Detection
