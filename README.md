@@ -1,4 +1,4 @@
-# Data science portfolio by Dileep.A (AMAN)
+# Data science Portfolio by Dileep.A 
 
 This portfolio is a compilation of notebooks which created for data analysis or for exploration of machine learning algorithms. 
 
