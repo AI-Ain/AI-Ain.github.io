@@ -1,10 +1,8 @@
-theme: jekyll-theme-cayman
 
-# THEME-SPECIFIC CONFIGURATION
-title: AMAN
-description: "A Learning Engineer"
-show_downloads: "false"
+
+
+theme: jekyll-theme-minimal
+title: <p style="text-align:center;color:black;" class="view">AMAN <br></p>
+logo: img/asim-ini.jpg
+description: <p style="text-align:center;color:black;" class="view">AI LEARNING ENGINEER<br></p>
 google_analytics: "UA-167412463-1"
-
-
-
