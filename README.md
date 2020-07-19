@@ -1,6 +1,11 @@
-# Data science Portfolio by Dileep.A 
+# A Portfolio by Dileep.A 
 
 This portfolio is a compilation of notebooks which created for data analysis or for exploration of machine learning algorithms. 
+
+## Sequence Analysis of Covid-19 Genome
+The emerging infectious disease of the global coronavirus COVID-19, caused by the new severe acute respiratory syndrome Coronavirus 2 (SARS-CoV-2), had an impact on global health and economy since its identification at the end of December 2019. We done some basic analysis of DNA sequences. We work with FASTA files and do some manipulation, such as reverse complementing or transcription.
+
+The link can be found [here](https://medium.com/@dileep.aman/sequence-analysis-of-covid-19-genome-355fc1dce683)
 
 ## AN APPROACH FOR TABLE SCRAPING - AZURE FORM RECOGNIZER
 
@@ -86,4 +91,15 @@ This is a self project using image recognition methods in practice. This is a si
 [Github](https://github.com/dileepshaik/MEDIUM_NoteBook)
 
 Repository contains the notebooks of multiple methods to detect the anomalies in the dataset.
+
+
+
+
+
+
+
+
+
+
+
 
