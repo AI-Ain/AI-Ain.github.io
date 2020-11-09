@@ -2,6 +2,11 @@
 
 This portfolio is a compilation of notebooks which created for data analysis or for exploration of machine learning algorithms. 
 
+## Dive into Data Analysis
+If you’ve just started to learn about data, or if you’re not quite sure how it works—this book offers a wealth of information. Data Analytics Made Accessible breaks down data analysis into an easy to follow, digestible format.
+
+The link can be found [here](https://books2read.com/u/3JjQEg)
+
 ## Sequence Analysis of Covid-19 Genome
 The emerging infectious disease of the global coronavirus COVID-19, caused by the new severe acute respiratory syndrome Coronavirus 2 (SARS-CoV-2), had an impact on global health and economy since its identification at the end of December 2019. We done some basic analysis of DNA sequences. We work with FASTA files and do some manipulation, such as reverse complementing or transcription.
 
